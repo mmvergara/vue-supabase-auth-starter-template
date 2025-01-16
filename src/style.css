@@ -56,7 +56,7 @@ a {
   font-weight: bold;
   background: none;
   cursor: pointer;
-  color: #00add8;
+  color: #42b37b;
 }
 
 #github-repo-link:hover {
@@ -83,7 +83,7 @@ a {
   background: none;
   cursor: pointer;
   color: white;
-  background: #06acd9;
+  background: #42b37b;
   border: none;
   border-radius: 0.125em;
   transition: background-color 0.3s;
@@ -99,7 +99,7 @@ a {
 
 button:hover,
 a:hover {
-  background: #00add8;
+  background: #42b37b;
 }
 
 .home-link {

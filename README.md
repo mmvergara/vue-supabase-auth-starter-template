@@ -1,5 +1,38 @@
-# Vue 3 + TypeScript + Vite
+<p align="center">
+<h1 align="center">React Supabase Auth with Protected Routes</h1>
+</p>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<p align="center">
+<img src="remove_me.png" width="450">
+</p>
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+[**`🌐 App Demo`**](https://react-supabase-auth-template.vercel.app/)
+
+## Features
+
+- 🚀 Protected Routes
+- 🚀 Supabase Session Object in Global Context via `useSession`
+- 🚀 User Authentication
+- 🚀 Routing and Route Guards
+
+It's also blazingly fast 🔥 No really, [try it out for yourself.](https://react-supabase-auth-template.vercel.app/)
+
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Create `.env` using the `.env.example` as a template
+
+```
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
+```
+
+4. Run the app: `npm run dev`
+
+## Files you need to see so you can understand the code
+
+- `src/stores/auth.ts`
+- `src/router/index.ts`
+- `All Pages`
