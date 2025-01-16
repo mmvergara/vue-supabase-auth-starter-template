@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">React Supabase Auth with Protected Routes</h1>
+<h1 align="center">Vue Supabase Auth with Protected Routes</h1>
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@
 - 🚀 Supabase Session Object in Global via `useAuthStore`
 - 🚀 User Authentication
 - 🚀 Routing and Route Guards
+- 🚀 Minimal
 
 It's also blazingly fast 🔥 No really, [try it out for yourself.](https://react-supabase-auth-template.vercel.app/)
 
