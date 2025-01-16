@@ -1,0 +1,25 @@
+{
+  "name": "vue-supabase-auth-starter-template",
+  "author": "mmvergara",
+  "license": "MIT",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.15",
+    "pinia": "^2.2.2",
+    "vue": "^3.4.37",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1",
+    "vue-tsc": "^2.0.29"
+  }
+}
