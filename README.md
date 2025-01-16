@@ -11,12 +11,11 @@
 ## Features
 
 - 🚀 Protected Routes
-- 🚀 Supabase Session Object in Global Context via `useSession`
+- 🚀 Supabase Session Object in Global via `useAuthStore`
 - 🚀 User Authentication
 - 🚀 Routing and Route Guards
 
 It's also blazingly fast 🔥 No really, [try it out for yourself.](https://react-supabase-auth-template.vercel.app/)
-
 
 ## Getting Started
 
@@ -31,7 +30,7 @@ VITE_SUPABASE_ANON_KEY=
 
 4. Run the app: `npm run dev`
 
-## Files you need to see so you can understand the code
+## Files you need to see so you can understand how it works.
 
 - `src/stores/auth.ts`
 - `src/router/index.ts`
