@@ -6,7 +6,7 @@
 <img src="remove_me.png" width="450">
 </p>
 
-[**`🌐 App Demo`**](https://react-supabase-auth-template.vercel.app/)
+[**`🌐 App Demo`**](https://vue-supabase-auth-starter-template.vercel.app/)
 
 ## Features
 
@@ -16,7 +16,7 @@
 - 🚀 Routing and Route Guards
 - 🚀 Minimal
 
-It's also blazingly fast 🔥 No really, [try it out for yourself.](https://react-supabase-auth-template.vercel.app/)
+It's also blazingly fast 🔥 No really, [try it out for yourself.](https://vue-supabase-auth-starter-template.vercel.app/)
 
 ## Getting Started
 
