@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.49.1",
-    "pinia": "^2.3.1",
+    "pinia": "^3.0.1",
     "vue": "^3.4.37",
     "vue-router": "^4.4.3"
   },
