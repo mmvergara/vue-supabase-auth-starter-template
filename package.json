@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.49.1",
+    "@supabase/supabase-js": "^2.49.8",
     "pinia": "^3.0.1",
     "vue": "^3.4.37",
     "vue-router": "^4.4.3"
